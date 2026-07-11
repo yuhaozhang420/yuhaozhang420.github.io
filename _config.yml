@@ -23,7 +23,7 @@ repository               : "yuhaozhang420/yuhaozhang420.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "yuhao-zhang-profile.jpg"
+  avatar           : "yuhao-zhang-site-photo.jpg"
   name             : "Yuhao Zhang"
   pronouns         : # example: "she/her"  
   bio              : "PhD researcher in sustainable energy systems, multi-scale modeling, and intelligent control."
