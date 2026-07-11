@@ -8,21 +8,15 @@
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Berlin",
+      "city": "",
       "countryCode": "DE",
       "region": ""
     },
-    "profiles": [
-      {
-        "network": "GitHub",
-        "username": "yuhaozhang420",
-        "url": "https://github.com/yuhaozhang420"
-      }
-    ]
+    "profiles": []
   },
   "work": [
     {
-      "name": "Technische Universitaet Berlin",
+      "name": "Germany",
       "position": "PhD Researcher",
       "startDate": "2025-10-01",
       "endDate": "2029-10-01",
@@ -31,7 +25,7 @@
   ],
   "education": [
     {
-      "institution": "Technische Universitaet Berlin",
+      "institution": "Germany",
       "area": "Multi-scale Modeling and Control of Multi-energy Sustainable Microgrids",
       "studyType": "Ph.D.",
       "startDate": "2025-10-01",

@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Multi-scale Modeling and Control of Multi-energy Sustainable Microgrids, Technische Universitaet Berlin, 2025-2029.
+* Ph.D. in Multi-scale Modeling and Control of Multi-energy Sustainable Microgrids, Germany, 2025-2029.
 * M.Eng. in Power Machinery and Engineering, University of Chinese Academy of Sciences / Institute of Engineering Thermophysics, CAS, 2022-2025. GPA: 3.76/4.0.
 * B.Eng. in Energy and Power Engineering, Nanjing University of Aeronautics and Astronautics, 2018-2022. Minor in Law.
 
 Research and project experience
 ======
-* 2025-2029: Multi-scale modeling and control of multi-energy sustainable microgrids, Technische Universitaet Berlin.
+* 2025-2029: Multi-scale modeling and control of multi-energy sustainable microgrids, Germany.
 * 2024-2025: Intelligent control method of hydrogen gas turbines based on model predictive control.
 * 2023-2025: Fuel disturbance suppression of gas turbines based on GRU-CNN-MPC.
 * 2023-2024: Intelligent compression system for high-power gas turbines.
