@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-## About
+<section class="profile-section profile-section--plain" id="about" markdown="1">
+
+<h2>About</h2>
 
 I am a PhD researcher in Germany, working on multi-scale modeling, intelligent control, and sustainable energy systems. My research interests lie at the intersection of gas turbine dynamics, hydrogen energy systems, model predictive control, and data-driven control methods.
 
@@ -21,15 +23,22 @@ My recent work focuses on reliable modeling and control for complex energy syste
   <span>Sustainable Energy Systems</span>
 </div>
 
-## News
+</section>
+
+<section class="profile-section" id="news" markdown="1">
+
+<h2>News</h2>
 
 * **2025.09** Started PhD research in Germany.
 * **2025.06** Completed M.Eng. in Power Machinery and Engineering.
 * **2025.05** Recognized as Merit Student of the Chinese Academy of Sciences.
 * **2025.01** Conference work accepted for ICRCA 2025 with oral presentation.
-* **2025** Awarded the China Scholarship Council (CSC) Scholarship.
 
-## Publications
+</section>
+
+<section class="profile-section" id="publications" markdown="1">
+
+<h2>Publications</h2>
 
 <div class="compact-publications">
   <article>
@@ -56,7 +65,11 @@ My recent work focuses on reliable modeling and control for complex energy syste
 
 [Full publication list](/publications/)
 
-## Background
+</section>
+
+<section class="profile-section" id="background" markdown="1">
+
+<h2>Background</h2>
 
 <div class="timeline-list">
   <p><strong>2025 - 2029</strong><br>Doctoral Researcher, Germany.</p>
@@ -64,22 +77,35 @@ My recent work focuses on reliable modeling and control for complex energy syste
   <p><strong>2018 - 2022</strong><br>B.Eng. in Energy and Power Engineering, Nanjing University of Aeronautics and Astronautics.</p>
 </div>
 
-## Projects
+</section>
+
+<section class="profile-section" id="projects" markdown="1">
+
+<h2>Projects</h2>
 
 * [Hydrogen Gas Turbine MPC](/portfolio/hydrogen-gas-turbine-mpc/) - predictive modeling and rolling optimization for hydrogen gas turbine control.
 * [GRU-CNN-MPC Disturbance Suppression](/portfolio/gru-cnn-mpc-disturbance-suppression/) - neural-network-assisted MPC for gas turbine fuel disturbance suppression.
 * [Intelligent Compression System](/portfolio/intelligent-compression-system/) - compressor stability prediction, online diagnosis, and intelligent regulation.
 * [LM2500+DLE Control Simulator](/portfolio/lm2500-dle-simulator/) - combustion control, fuel quantity control, and mode-switching simulation.
 
-## Honors
+</section>
 
-* China Scholarship Council (CSC) Scholarship, 2025-2029.
+<section class="profile-section" id="honors" markdown="1">
+
+<h2>Honors</h2>
+
 * Merit Student of the Chinese Academy of Sciences, 2024 and 2025.
 * Academic Scholarship of the Chinese Academy of Sciences, 2023 and 2024.
 * Multiple academic and outstanding student scholarships, 2019-2022.
 
-## Services
+</section>
+
+<section class="profile-section" id="services" markdown="1">
+
+<h2>Services</h2>
 
 * Laboratory psychology committee member and youth league branch member during master's study.
 * Organized student association and youth volunteer activities.
 * Led social-practice activities and received college-level excellent social practice recognition.
+
+</section>
