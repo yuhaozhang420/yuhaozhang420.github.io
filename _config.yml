@@ -26,11 +26,11 @@ author:
   avatar           : "yuhao-zhang-site-photo.jpg"
   name             : "Yuhao Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "PhD researcher in sustainable energy systems, multi-scale modeling, and intelligent control."
+  bio              : "PhD researcher, Sustainable Energy Systems"
   location         : "Germany"
   employer         :
   uri              : # URL
-  email            : "yh.zhang@tum.de" 
+  email            :
 
   # Academic websites
   academia         : # URL
@@ -173,6 +173,9 @@ exclude:
   - .github
   - .jekyll-assets-cache
   - .sass-cache
+  - _pages/cv.md
+  - _pages/cv-json.md
+  - _pages/archive-layout-with-content.md
   - assets/js/_main.js
   - assets/js/plugins
   - assets/js/vendor
