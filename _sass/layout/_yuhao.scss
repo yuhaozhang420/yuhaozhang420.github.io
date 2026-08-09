@@ -1,20 +1,3 @@
-.page__content .home-grid {
-  display: grid;
-  gap: 1.2rem;
-  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
-  margin: 1.25rem 0;
-}
-
-.page__content .home-card {
-  border-left: 3px solid var(--global-base-color);
-  padding: 0.1rem 0 0.1rem 1rem;
-  background: transparent;
-}
-
-.page__content .home-card h2 {
-  margin-top: 0;
-}
-
 .author__avatar img {
   object-fit: cover;
 }
@@ -26,9 +9,43 @@
 
 .page__content h2 {
   border-bottom: 1px solid var(--global-border-color);
+  margin-top: 1.65rem;
   padding-bottom: 0.25rem;
 }
 
 .author__urls-wrapper .btn {
   display: none;
+}
+
+.page__content p,
+.page__content li {
+  line-height: 1.65;
+}
+
+.page__content ul {
+  margin-top: 0.45rem;
+}
+
+.research-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  margin: 1rem 0 1.25rem;
+}
+
+.research-tags span {
+  border: 1px solid var(--global-border-color);
+  border-radius: 999px;
+  color: var(--global-text-color);
+  font-size: 0.78rem;
+  line-height: 1;
+  padding: 0.38rem 0.62rem;
+}
+
+.archive__item-title {
+  margin-bottom: 0.25rem;
+}
+
+.archive__item-excerpt {
+  margin-top: 0.25rem;
 }
