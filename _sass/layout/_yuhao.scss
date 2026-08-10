@@ -20,7 +20,7 @@ body {
 }
 
 #main {
-  max-width: 1280px;
+  max-width: 1500px;
   margin-top: 0.85rem;
 }
 
@@ -218,6 +218,8 @@ li#theme-toggle,
 
   .page {
     width: 84%;
+    margin-left: 0;
+    margin-right: 0;
     padding-left: 2%;
   }
 
@@ -240,6 +242,8 @@ li#theme-toggle,
 
   .page {
     width: 85%;
+    margin-left: 0;
+    margin-right: 0;
     padding-left: 2.4%;
   }
 }
