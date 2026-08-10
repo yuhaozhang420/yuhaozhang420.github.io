@@ -6,7 +6,7 @@
 .sidebar,
 .masthead,
 body {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
 }
 
 :root {
@@ -14,8 +14,8 @@ body {
   --global-link-color: #1772d0;
   --global-link-color-hover: #0f4f93;
   --global-link-color-visited: #1772d0;
-  --global-masthead-link-color: #333;
-  --global-masthead-link-color-hover: #1772d0;
+  --global-masthead-link-color: #3380d0;
+  --global-masthead-link-color-hover: #1f4d7d;
   --global-text-color: #222;
 }
 
@@ -45,12 +45,19 @@ body[style] {
 
 .masthead__menu-item,
 .greedy-nav a {
+  color: #3380d0;
   font-size: 0.9rem;
 }
 
 .masthead__menu-item--lg {
-  font-weight: 600;
+  color: #3380d0;
+  font-weight: 700;
   padding-right: 1.6rem;
+}
+
+.masthead__menu-item a:hover,
+.greedy-nav a:hover {
+  color: #1f4d7d;
 }
 
 #site-nav #theme-toggle,
@@ -74,7 +81,7 @@ li#theme-toggle,
 }
 
 .sidebar .author__name {
-  color: #222;
+  color: #3380d0;
   font-size: 0.96rem;
   font-weight: 700;
 }
